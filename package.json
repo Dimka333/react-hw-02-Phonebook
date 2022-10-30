@@ -2,7 +2,7 @@
   "name": "react-app-start-kit",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Dimka333.github.io/goit-react-hw-02-Phonebook",
+  "homepage": "https://Dimka333.github.io/react-hw-02-Phonebook",
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.6",
